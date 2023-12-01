@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "TrialSmartLock_Monitoring.ino",
+    "port": "COM5"
+}
