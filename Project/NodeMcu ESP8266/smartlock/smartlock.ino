@@ -10,10 +10,10 @@
 #define LED_RED 9     // S2 atau SD2
 
 CTBot mybot;
-const String ssid = "MITRATEL JABO 2.4G";
-const String pass = "123mitratel";
-const String token = "6411164664:AAF5t7QhS7HEv7ftK0GsOjEt3mYmF4iRTSo";
-const int ChatId = 863031403;
+const String ssid = "";
+const String pass = "";
+const String token = "";
+const int ChatId = ;
 
 MFRC522 rfid(SS_PIN, RST_PIN);
 MFRC522::MIFARE_Key key;
